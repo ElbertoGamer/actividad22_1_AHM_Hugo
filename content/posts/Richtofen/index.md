@@ -5,9 +5,7 @@ description = "La historia y locura del Doctor Edward Richtofen, uno de los pers
 draft = false
 +++
 
-<figure>
-<img src="edward-richtofen.png" alt="Edward Richtofen">
-</figure>
+![Rich](edward-richtofen.png)
 
 # Edward Richtofen
 
